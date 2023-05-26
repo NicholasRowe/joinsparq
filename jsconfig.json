@@ -1,0 +1,13 @@
+{
+  "exclude": ["./node_modules"],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["./src/components/*"],
+      "@hooks/*": ["./src/hooks/*"],
+      "@Store/*": ["./src/Store/*"],
+      "@styles/*": ["./src/styles/*"],
+      "@utils": ["./src/utils/*"]
+    }
+  }
+}

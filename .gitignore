@@ -1,0 +1,9 @@
+node_modules
+coverage
+.cache/
+public/
+.DS_Store
+.env.development
+.env.production
+.contentful.json
+schema.gql
